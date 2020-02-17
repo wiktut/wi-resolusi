@@ -2,4 +2,4 @@ WI Resolusi
 - Konsisten mengerjakan project setiap hari
 - Belajar sesuatu yang baru sampai tuntas
 - Membuat timeline project
-- Mempelajari JavaScript sampai mahir
+- Mempelajari mobile programming dengan JavaScript
